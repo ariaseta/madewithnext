@@ -2,76 +2,57 @@
 
 > A curated collection of open-source projects built with [Next.js](https://nextjs.org), showcasing the versatility and power of the React framework.
 
-![madewithnext banner](https://your-image-url.com/banner.png)
-
-## 🚀 Introduction
-
-Next.js has become the go-to framework for building high-performance web applications with React.
-This repository aims to highlight some of the most impressive open-source projects developed using Next.js, serving as inspiration and reference for developers worldwide.
-
-## 📂 Table of Contents
-
-- [Projects](#projects)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🌟 Projects
 
 ### 🛠️ Developer Tools & Frameworks
 
-- **[Supabase](https://github.com/supabase/supabase)**  
+- **[Supabase](https://github.com/supabase/supabase)** ★81.2k  
   An open-source Firebase alternative, providing a suite of tools including authentication, real-time databases, and storage.
 
-- **[Payload CMS](https://github.com/payloadcms/payload)**  
-  A headless CMS built with Next.js, offering a powerful TypeScript backend and admin panel.
+- **[Plane](https://github.com/makeplane/plane)** ★35.5k  
+  An open-source project management tool built to track issues, epics, and roadmaps. With its user-friendly interface and seamless integration with GitHub, Slack, and Figma, it’s perfect for teams aiming to streamline their workflows.
 
-- **[Refine](https://github.com/refinedev/refine)**  
-  A React framework for building internal tools, admin panels, and dashboards with unmatched flexibility.
+- **[Formbricks](https://github.com/formbricks/formbricks)** ★10.4k  
+  An open-source survey platform designed to collect user feedback. With its no-code editor and advanced analytics, it makes creating surveys and analyzing results effortless.
 
-### 🛒 E-commerce & SaaS
+- **[Twenty](https://github.com/twentyhq/twenty)** ★2.3k  
+  A self-hosted, open-source CRM solution that gives you complete control over your data. Its intuitive interface, inspired by Notion, makes managing customer relationships simple and efficient.
 
-- **[Medusa](https://github.com/medusajs/medusa)**  
-  An open-source headless commerce engine, allowing for customizable and scalable e-commerce solutions.
+- **[Dub.co](https://github.com/dubinc/dub)** ★21.2k  
+  A link management tool tailored for marketers. Create, share, and track shortened links with complete control, all while self-hosting the platform.
 
-- **[Next.js Subscription Payments](https://github.com/vercel/nextjs-subscription-payments)**  
-  A full-featured example showcasing how to implement subscription payments with Next.js and Stripe.
+- **[Cal.com](https://github.com/calcom/cal.com)** ★35.3k  
+  A self-hosted open-source alternative to Calendly. With integrations for Google Calendar, Zoom, HubSpot, and more, it makes scheduling easy and efficient.
 
-- **[DigitalHippo](https://github.com/joschan21/digitalhippo)**  
-  A modern full-stack e-commerce marketplace for digital products, built with Next.js 14, tRPC, and Payload CMS.
+- **[Infisical](https://github.com/Infisical/infisical)** ★5.1k  
+  A secret management tool designed for teams. Securely store API keys, database credentials, and other sensitive data with role-based access control and versioning.
 
-### 📚 Blogs & Portfolios
+- **[Rallly](https://github.com/lukevella/rallly)** ★4.2k  
+  A simple scheduling tool that allows users to create polls for group meetings—no sign-ups needed. It’s private, customizable, and easy to use.
 
-- **[Devii](https://github.com/harshhhdev/devii)**  
-  A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, featuring Markdown support and SEO optimization.
+- **[Inbox Zero](https://github.com/elie222/inbox-zero)** ★1.2k  
+  An AI-powered email app designed to help users achieve inbox zero with features like automated responses, email filtering, and subscription management.
 
-- **[Next.js Blog Starter](https://github.com/vercel/nextjs-blog-starter)**  
-  A minimalistic blog starter template with Next.js, perfect for personal blogs and documentation.
+- **[Unkey](https://github.com/unkeyed/unkey)** ★4.7k  
+  An open-source API key management tool that simplifies and streamlines API authentication.
 
-### 🎨 UI & Design
+- **[Documenso](https://github.com/documenso/documenso)** ★4.0k  
+  A self-hosted open-source document signing tool, ensuring privacy and transparency.
 
-- **[Next.js Image Editor](https://github.com/replicate/nextjs-image-editor)**  
-  An AI-powered image editor built with Next.js and DALL·E, allowing users to generate and edit images seamlessly.
+- **[Civitai](https://github.com/civitai/civitai)** ★3.5k  
+  An open-source AI community platform for sharing, fine-tuning, and collaborating on AI models.
 
-- **[Next.js Portfolio Starter](https://github.com/saadpasta/developerFolio)**  
-  A beautiful portfolio template for developers, built with Next.js and customizable to showcase personal projects and skills.
-
-### 🧠 AI & Productivity
-
-- **[DocMind](https://github.com/DocMindAI/DocMind)**  
-  An open-source AI-powered PDF summarizer built as a Next.js application, streamlining document analysis.
-
-- **[Chord Seq AI App](https://github.com/ChordSeqAI/ChordSeq)**  
-  An AI-powered chord progression suggester for composers and music enthusiasts, developed with Next.js.
+- **[Typebot.io](https://github.com/baptisteArno/typebot.io)** ★8.5k  
+  A no-code chatbot builder that allows you to create and embed advanced chatbots anywhere with ease.
 
 ## 🤝 Contributing
 
-Contributions are welcome!
-If you know of an open-source Next.js project that should be included, please submit a pull request with the following information:
+Contributions are welcome! If you know of an open-source Next.js project that should be included, please submit a pull request with the following information:
 
-- **Project Name**:  
-- **Description**:  
-- **GitHub URL**:  
-- **Category**:  
+- **Project Name**
+- **Description**
+- **GitHub URL**
+- **Category**
 
 Please ensure the project is actively maintained and has a clear README.
 
